@@ -53,7 +53,5 @@ For inquiries or collaboration:
 
 Website: https://kingcorporation.store
 
-Email: kingcorp2005@gmail.com
-
-Developed by: [Md. Shamsad Alam Meraj](https://www.linkedin.com/in/md-shamsad-alam-meraj/)
+Email: reazanamul@gmail.com
 
