@@ -47,11 +47,4 @@ Unauthorized use, distribution, or modification is strictly prohibited.
 
 © 2025 King Corporation. All rights reserved.
 
-## 💬 Contact
-
-For inquiries or collaboration:
-
-Website: https://kingcorporation.store
-
-Email: reazanamul@gmail.com
 
