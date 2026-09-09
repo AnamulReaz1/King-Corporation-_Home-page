@@ -1,0 +1,197 @@
+const shopList = [
+  {
+    id: 1,
+    _id: 'kebab-akabane',
+    name: 'King Kebab Akabane',
+    pageTitle: 'Bangla Curry & Biriyani House',
+    heroImage: '/images/kebab_akabane/hero.png',
+    menu: [
+      {
+        id: 1,
+        title: 'Biriyani',
+        menuName: 'Main Course',
+        image: '/images/kebab_akabane/image1.jpg',
+      },
+      {
+        id: 2,
+        title: 'Curry',
+        menuName: 'Main Course',
+        image: '/images/kebab_akabane/image2.jpg',
+      },
+      {
+        id: 3,
+        title: 'Special Dish',
+        menuName: 'Specialty',
+        image: '/images/kebab_akabane/image3.jpg',
+      },
+      {
+        id: 4,
+        title: 'Kebab',
+        menuName: 'Appetizer',
+        image: '/images/kebab_akabane/image4.jpg',
+      },
+      {
+        id: 5,
+        title: 'Rice Bowl',
+        menuName: 'Main Course',
+        image: '/images/kebab_akabane/image5.jpg',
+      },
+      {
+        id: 6,
+        title: 'Noodles',
+        menuName: 'Main Course',
+        image: '/images/kebab_akabane/image6.jpg',
+      },
+      {
+        id: 7,
+        title: 'Soup',
+        menuName: 'Appetizer',
+        image: '/images/kebab_akabane/image7.jpg',
+      },
+      {
+        id: 8,
+        title: 'Side Dish',
+        menuName: 'Sides',
+        image: '/images/kebab_akabane/image8.jpg',
+      },
+      {
+        id: 9,
+        title: 'Dessert',
+        menuName: 'Desserts',
+        image: '/images/kebab_akabane/image9.jpg',
+      },
+    ],
+
+    location: { long: 23.334, lat: 44.454 },
+  },
+  {
+    id: 2,
+    _id: 'kebab-jujo',
+    name: 'King Kebab Jujo',
+    pageTitle: 'Sushi Platter & Delicious House',
+    heroImage: '/images/kebab_jujo/hero.jpg',
+    menu: [
+      {
+        id: 1,
+        title: 'Biriyani',
+        menuName: 'Main Course',
+        image: '/images/kebab_akabane/image1.jpg',
+      },
+      {
+        id: 2,
+        title: 'Curry',
+        menuName: 'Main Course',
+        image: '/images/kebab_akabane/image2.jpg',
+      },
+      {
+        id: 3,
+        title: 'Special Dish',
+        menuName: 'Specialty',
+        image: '/images/kebab_akabane/image3.jpg',
+      },
+      {
+        id: 4,
+        title: 'Kebab',
+        menuName: 'Appetizer',
+        image: '/images/kebab_akabane/image4.jpg',
+      },
+      {
+        id: 5,
+        title: 'Rice Bowl',
+        menuName: 'Main Course',
+        image: '/images/kebab_akabane/image5.jpg',
+      },
+      {
+        id: 6,
+        title: 'Noodles',
+        menuName: 'Main Course',
+        image: '/images/kebab_akabane/image6.jpg',
+      },
+      {
+        id: 7,
+        title: 'Soup',
+        menuName: 'Appetizer',
+        image: '/images/kebab_akabane/image7.jpg',
+      },
+      {
+        id: 8,
+        title: 'Side Dish',
+        menuName: 'Sides',
+        image: '/images/kebab_akabane/image8.jpg',
+      },
+      {
+        id: 9,
+        title: 'Dessert',
+        menuName: 'Desserts',
+        image: '/images/kebab_akabane/image9.jpg',
+      },
+    ],
+    location: { long: 23.334, lat: 44.454 },
+  },
+  {
+    id: 3,
+    _id: 'kebab-higashijujo',
+    name: 'King Kebab Higashijujo',
+    pageTitle: 'Shrimp Noodles & Spicy House',
+    heroImage: '/images/kebab_higashijujo/hero.jpg',
+    menu: [
+      {
+        id: 1,
+        title: 'Biriyani',
+        menuName: 'Main Course',
+        image: '/images/kebab_akabane/image1.jpg',
+      },
+      {
+        id: 2,
+        title: 'Curry',
+        menuName: 'Main Course',
+        image: '/images/kebab_akabane/image2.jpg',
+      },
+      {
+        id: 3,
+        title: 'Special Dish',
+        menuName: 'Specialty',
+        image: '/images/kebab_akabane/image3.jpg',
+      },
+      {
+        id: 4,
+        title: 'Kebab',
+        menuName: 'Appetizer',
+        image: '/images/kebab_akabane/image4.jpg',
+      },
+      {
+        id: 5,
+        title: 'Rice Bowl',
+        menuName: 'Main Course',
+        image: '/images/kebab_akabane/image5.jpg',
+      },
+      {
+        id: 6,
+        title: 'Noodles',
+        menuName: 'Main Course',
+        image: '/images/kebab_akabane/image6.jpg',
+      },
+      {
+        id: 7,
+        title: 'Soup',
+        menuName: 'Appetizer',
+        image: '/images/kebab_akabane/image7.jpg',
+      },
+      {
+        id: 8,
+        title: 'Side Dish',
+        menuName: 'Sides',
+        image: '/images/kebab_akabane/image8.jpg',
+      },
+      {
+        id: 9,
+        title: 'Dessert',
+        menuName: 'Desserts',
+        image: '/images/kebab_akabane/image9.jpg',
+      },
+    ],
+
+    location: { long: 23.334, lat: 44.454 },
+  },
+];
+export default shopList;
