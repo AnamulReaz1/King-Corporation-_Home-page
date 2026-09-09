@@ -46,5 +46,3 @@ This project is private and owned by **King Corporation**.
 Unauthorized use, distribution, or modification is strictly prohibited.
 
 © 2025 King Corporation. All rights reserved.
-
-
